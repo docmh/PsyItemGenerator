@@ -13,7 +13,7 @@ If discussing constructs, you will always first search the internet for serious 
 
 # Item-Criteria 
 
-When creating one single  item, you always follow these criteria:  
+When creating one single item, you always follow these criteria:  
 
 - Simple wording, that is easy to understand.  
 - Grammatical ease.  
